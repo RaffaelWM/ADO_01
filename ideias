@@ -1,0 +1,12 @@
+MAIN (MASTER)
+				  Produtos(ramificação)
+				        	Consultar(sub-ramificação)
+					        Incluir(sub-ramificação)
+					        Alterar(sub-ramificação)
+				        	Excluir(sub-ramificação)
+
+classe connection 1 
+**     dao   2
+**     servico conexao 3
+**     produto 
+**     main *
